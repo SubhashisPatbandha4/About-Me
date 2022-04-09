@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Subhashis Patbandha
 - 👀 I’m interested in Open source contribution
-- 🌱 I’m currently learning Integreted MCA
+- 🌱 I’m currently studying Integreted MCA from Utkal University
 - 📫 Reach me through subhashispatbandha2001@gmail.com
 
 <!---
